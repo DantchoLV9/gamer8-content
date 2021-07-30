@@ -1,6 +1,6 @@
 ---
 title: "Human Fall Flat"
 rating: { "graphics": 3, "gameplay": 5, "story": null }
-reviewDate: 30-07-2021
+date: 2021-07-30
 images: { mainImage: null, galleryImages: null }
 ---

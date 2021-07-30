@@ -1,6 +1,6 @@
 ---
 title: "Jalopy"
 rating: { "graphics": 2, "gameplay": 3, "story": 1 }
-reviewDate: 30-07-2021
+date: 2021-07-30
 images: { mainImage: null, galleryImages: null }
 ---

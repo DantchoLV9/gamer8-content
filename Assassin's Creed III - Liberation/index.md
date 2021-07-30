@@ -1,7 +1,7 @@
 ---
 title: "Assassin's Creed III: Liberation"
 rating: { "graphics": 3, "gameplay": 3, "story": 2 }
-reviewDate: 30-07-2021
+date: 2021-07-30
 images:
   {
     mainImage: "main.jpg",
