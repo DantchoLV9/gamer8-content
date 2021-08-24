@@ -1,7 +1,7 @@
 ---
 title: "American Truck Simulator"
 rating: { "graphics": 4, "gameplay": 5, "story": null }
-date: 2021-07-30
+date: 2021-08-24
 images:
   {
     mainImage: "main.jpg",
