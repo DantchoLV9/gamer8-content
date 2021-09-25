@@ -9,8 +9,6 @@ images:
   }
 ---
 
-### Review
-
 I played Assassin's Creed III quite a long time after it was released. I also mainly focused on the main story, so keep that in mind. I liked the story of the game although some bugs and the frustrating optional goals with each mission made it quite hard to finish.
 
 The graphics of the game are alright. Not the best, but I felt like they were better than the graphics of Assassin's Creed III: Liberation. Nothing special though.
