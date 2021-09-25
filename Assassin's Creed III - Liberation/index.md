@@ -17,8 +17,6 @@ images:
   }
 ---
 
-### Review
-
 I played Assassin's Creed III: Liberation after playing Assassin's Creed III. Overall I thought that it wasn't as good as Assassin's Creed III.
 
 I focused on the main story which I didn't really find interesting. I also felt that it was quite short, so I wasn't really impressed by the story of the game.
