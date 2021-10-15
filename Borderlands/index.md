@@ -1,7 +1,7 @@
 ---
 title: "Borderlands"
-rating: { "graphics": 3, "gameplay": 4, "story": 4 }
-date: 2021-07-30
+rating: { "graphics": 3, "gameplay": 4.5, "story": 2.5 }
+date: 2021-10-15
 images:
   {
     mainImage: "main.jpg",
