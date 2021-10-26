@@ -1,6 +1,6 @@
 ---
 title: "Jalopy"
-rating: { "graphics": 2, "gameplay": 3, "story": 1 }
+rating: { "graphics": 2.5, "gameplay": 4, "story": 1 }
 date: 2021-10-26
 images:
   {
